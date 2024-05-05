@@ -1,0 +1,13 @@
+	 Welcome Eashwa Retails
+
+Bill Number : 		 2876
+ Customer Name :		 Shaikh Adil
+ Phone Number : 		 9898888883
+ ==================================
+ Product Name 		 QTY		Price
+ ==================================
+Bike Cover		1		2000
+
+
+ ==================================Total Paybill Amont : 		3800
+ ==================================
